@@ -1,4 +1,5 @@
 # Hi 👋 I'm Alok
+![Profile Views](https://komarev.com/ghpvc/?username=alokgupta615&label=Profile%20Views&color=0e75b6&style=flat)
 
 🎓 B.Tech Computer Science Student
 💻 Web Developer | DSA Learner
