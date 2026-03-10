@@ -13,7 +13,7 @@
 * 🌱 Currently learning **Data Structures & Algorithms and Full Stack Development**
 * 💼 Interested in **Software Development Internships**
 * 🚀 Building real-world web applications and improving problem solving skills
-* 📫 Reach me at: **[your-email@example.com](mailto:your-email@example.com)**
+* 📫 Reach me at: **[aalokgupta4545@gmail.com](mailto:aalokgupta4545.com)**
 
 ---
 
