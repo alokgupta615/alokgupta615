@@ -106,9 +106,11 @@ A collection of **Data Structures & Algorithms problems solved in Java**.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alokgupta615\&layout=compact)
 
 ---
-## 🧠 LeetCode Stats
+## 🧠 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Aalok-45_45?theme=dark&font=Baloo&ext=heatmap)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Active%20Coder-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/Aalok-45_45/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aalok-45_45?theme=dark&ext=heatmap)
 
 ---
 
