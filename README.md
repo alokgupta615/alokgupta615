@@ -113,11 +113,11 @@ A collection of **Data Structures & Algorithms problems solved in Java**.
 <img src="https://img.shields.io/badge/LeetCode-Profile-black?style=for-the-badge&logo=leetcode&logoColor=orange"/>
 </a>
 </p>
-## 🏅 LeetCode Badges
 
-<p align="left">
-<img src="https://assets.leetcode.com/static_assets/others/50-days-badge-2026.png" width="120"/>
-</p>
+### 🏅 Achievements
+
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-50%20Days%20Badge%202026-orange?style=for-the-badge&logo=leetcode)
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Aalok-45_45?theme=dark&ext=heatmap)
 ---
 
