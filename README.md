@@ -108,10 +108,16 @@ A collection of **Data Structures & Algorithms problems solved in Java**.
 ---
 ## 🧠 LeetCode
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Active%20Coder-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/Aalok-45_45/)
+<p>
+<a href="https://leetcode.com/u/Aalok-45_45/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-black?style=for-the-badge&logo=leetcode&logoColor=orange"/>
+</a>
+<a href="https://leetcode.com/u/Aalok-45_45/">
+<img src="https://img.shields.io/badge/Status-Active%20Coder-000000?style=for-the-badge"/>
+</a>
+</p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Aalok-45_45?theme=dark&ext=heatmap)
-
 ---
 
 ## 🌐 Connect With Me
