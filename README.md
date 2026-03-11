@@ -112,6 +112,9 @@ A collection of **Data Structures & Algorithms problems solved in Java**.
 * LinkedIn: https://www.linkedin.com/in/aalok-gupta-497a7424a/
 * GitHub: https://github.com/alokgupta615
 
+## 🧠 Coding Profiles
+
+* 💡 LeetCode: https://leetcode.com/your-username/](https://leetcode.com/u/Aalok-45_45/
 ---
 
 ⭐ From [alokgupta615](https://github.com/alokgupta615)
