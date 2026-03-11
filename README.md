@@ -112,10 +112,10 @@ A collection of **Data Structures & Algorithms problems solved in Java**.
 <a href="https://leetcode.com/u/Aalok-45_45/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-black?style=for-the-badge&logo=leetcode&logoColor=orange"/>
 </a>
-<a href="https://leetcode.com/u/Aalok-45_45/">
-<img src="https://img.shields.io/badge/Status-Active%20Coder-000000?style=for-the-badge"/>
-</a>
 </p>
+
+### 🏅 Badges
+<img src="./leetcode-50days.png" width="120"/>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Aalok-45_45?theme=dark&ext=heatmap)
 ---
